@@ -34,14 +34,11 @@
         <mxCell id="NNfqqpheHHXT0g_kWSY3-25" value="&lt;b&gt;&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 30px;&quot;&gt;x&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="NNfqqpheHHXT0g_kWSY3-15">
           <mxGeometry x="314" y="562" width="36" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="NNfqqpheHHXT0g_kWSY3-23" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;strokeWidth=3;" vertex="1" parent="NNfqqpheHHXT0g_kWSY3-15">
+          <mxGeometry x="301" y="575.5" width="20" height="21" as="geometry" />
+        </mxCell>
         <mxCell id="NNfqqpheHHXT0g_kWSY3-16" value="&lt;b style=&quot;color: rgb(0, 153, 77); font-size: 30px;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;（x&lt;sub style=&quot;&quot;&gt;1&lt;/sub&gt;，y&lt;sub style=&quot;&quot;&gt;1&lt;/sub&gt;）&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="NNfqqpheHHXT0g_kWSY3-22">
           <mxGeometry x="-39" y="499" width="171" height="53" as="geometry" />
-        </mxCell>
-        <mxCell id="NNfqqpheHHXT0g_kWSY3-23" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="556" y="722" width="25" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="NNfqqpheHHXT0g_kWSY3-29" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="636" y="712" width="17" height="17" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
