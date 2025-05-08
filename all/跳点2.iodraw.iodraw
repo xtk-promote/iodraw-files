@@ -4,6 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <UserObject label="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:12.0pt;mso-bidi-font-size:&#xa;10.5pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:宋体;&#xa;color:black;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:&#xa;ZH-CN;mso-bidi-language:AR-SA;mso-no-proof:yes&quot;&gt;&lt;img width=&quot;294&quot; height=&quot;180&quot; src=&quot;file:///C:/Users/斯国兴/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg&quot;&gt;&lt;/span&gt;" link="&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:12.0pt;mso-bidi-font-size:&#xa;10.5pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:宋体;&#xa;color:black;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:&#xa;ZH-CN;mso-bidi-language:AR-SA;mso-no-proof:yes&quot;&gt;&lt;img width=&quot;294&quot; height=&quot;180&quot; src=&quot;file:///C:/Users/斯国兴/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg&quot;&gt;&lt;/span&gt;" id="bVJG5qNXexLTCNdBmxLh-2">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="340" y="740" width="330" height="210" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
