@@ -136,10 +136,10 @@
         <mxCell id="dDg99TNLl3C_8YPIBkfE-37" value="&lt;font face=&quot;Times New Roman&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;C&lt;sub&gt;obs&lt;/sub&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=2" parent="dDg99TNLl3C_8YPIBkfE-1" vertex="1">
           <mxGeometry x="13" y="145" width="56" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="dDg99TNLl3C_8YPIBkfE-42" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.911;entryY=0.783;entryDx=0;entryDy=0;entryPerimeter=0;" parent="dDg99TNLl3C_8YPIBkfE-1" target="dDg99TNLl3C_8YPIBkfE-2" edge="1">
+        <mxCell id="dDg99TNLl3C_8YPIBkfE-42" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.911;entryY=0.783;entryDx=0;entryDy=0;entryPerimeter=0;" parent="dDg99TNLl3C_8YPIBkfE-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="279" y="148" as="sourcePoint" />
-            <mxPoint x="338" y="203" as="targetPoint" />
+            <mxPoint x="278.93093" y="186.91428999999994" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dDg99TNLl3C_8YPIBkfE-43" value="&lt;font face=&quot;Times New Roman&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;&lt;i&gt;R&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="dDg99TNLl3C_8YPIBkfE-1" vertex="1">
@@ -159,9 +159,6 @@
             <mxPoint x="279" y="146" as="sourcePoint" />
             <mxPoint x="318" y="123" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="dDg99TNLl3C_8YPIBkfE-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;dashed=1;" parent="dDg99TNLl3C_8YPIBkfE-1" vertex="1">
-          <mxGeometry x="108.00000000000006" y="40.00000000000001" width="187.63" height="187.63" as="geometry" />
         </mxCell>
         <mxCell id="G6JiQKr1H36g9IALZACb-4" value="" style="endArrow=none;html=1;rounded=0;exitX=0.016;exitY=1.002;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="dDg99TNLl3C_8YPIBkfE-1" source="SVrv25UcYwNJkJJYbqKo-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
