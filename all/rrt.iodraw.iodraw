@@ -73,8 +73,11 @@
         <mxCell id="SVrv25UcYwNJkJJYbqKo-20" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 21px;&quot;&gt;x&lt;sub&gt;new&lt;/sub&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="107" y="222" width="58" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="SVrv25UcYwNJkJJYbqKo-21" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#00FF00;" vertex="1" parent="1">
+        <mxCell id="SVrv25UcYwNJkJJYbqKo-21" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#00FFFF;" vertex="1" parent="1">
           <mxGeometry x="194" y="205" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="SVrv25UcYwNJkJJYbqKo-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SVrv25UcYwNJkJJYbqKo-21" target="SVrv25UcYwNJkJJYbqKo-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
