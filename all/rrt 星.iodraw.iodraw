@@ -44,7 +44,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SVrv25UcYwNJkJJYbqKo-12" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF0000;" parent="dDg99TNLl3C_8YPIBkfE-1" vertex="1">
-          <mxGeometry x="142" y="295" width="10" height="10" as="geometry" />
+          <mxGeometry x="123" y="288" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="SVrv25UcYwNJkJJYbqKo-14" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="dDg99TNLl3C_8YPIBkfE-1" source="SVrv25UcYwNJkJJYbqKo-18" target="SVrv25UcYwNJkJJYbqKo-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
