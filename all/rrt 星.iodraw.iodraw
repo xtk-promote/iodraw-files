@@ -89,7 +89,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dDg99TNLl3C_8YPIBkfE-14" value="" style="group" vertex="1" connectable="0" parent="dDg99TNLl3C_8YPIBkfE-1">
-          <mxGeometry x="239" y="230" width="79" height="142" as="geometry" />
+          <mxGeometry x="231" y="216" width="79" height="142" as="geometry" />
         </mxCell>
         <mxCell id="dDg99TNLl3C_8YPIBkfE-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF0000;" vertex="1" parent="dDg99TNLl3C_8YPIBkfE-14">
           <mxGeometry y="79" width="10" height="10" as="geometry" />
@@ -110,7 +110,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dDg99TNLl3C_8YPIBkfE-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF0000;" vertex="1" parent="dDg99TNLl3C_8YPIBkfE-14">
-          <mxGeometry x="55" width="10" height="10" as="geometry" />
+          <mxGeometry x="61" y="12" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="dDg99TNLl3C_8YPIBkfE-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1183" y="186" width="80" height="80" as="geometry" />
