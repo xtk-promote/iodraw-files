@@ -85,7 +85,7 @@
             <mxPoint x="153.46" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SVrv25UcYwNJkJJYbqKo-56" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=45;fontColor=#33FF99;" vertex="1" parent="1">
+        <mxCell id="SVrv25UcYwNJkJJYbqKo-56" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=45;fontColor=#33FF99;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="770" y="225.12" width="17.12" height="84.88" as="geometry" />
         </mxCell>
       </root>
