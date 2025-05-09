@@ -55,8 +55,8 @@
             <mxPoint x="197" y="213" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SVrv25UcYwNJkJJYbqKo-17" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 21px;&quot;&gt;x&lt;sub&gt;near&lt;/sub&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="100" y="340" width="59" height="41" as="geometry" />
+        <mxCell id="SVrv25UcYwNJkJJYbqKo-17" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 21px;&quot;&gt;&lt;i&gt;x&lt;/i&gt;&lt;sub&gt;near&lt;/sub&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="101" y="340" width="57" height="41" as="geometry" />
         </mxCell>
         <mxCell id="SVrv25UcYwNJkJJYbqKo-19" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="SVrv25UcYwNJkJJYbqKo-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
