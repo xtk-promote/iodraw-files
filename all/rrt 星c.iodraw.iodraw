@@ -171,8 +171,8 @@
         </mxCell>
         <mxCell id="G6JiQKr1H36g9IALZACb-7" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="dDg99TNLl3C_8YPIBkfE-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="434" y="109" as="sourcePoint" />
-            <mxPoint x="367" y="189" as="targetPoint" />
+            <mxPoint x="398" y="116" as="sourcePoint" />
+            <mxPoint x="346" y="127" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SVrv25UcYwNJkJJYbqKo-21" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#00FFFF;" parent="1" vertex="1">
