@@ -38,7 +38,7 @@
           <mxGeometry x="90" y="180" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="O-3fdxSTFqzNwpNhpnk3-29" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 21px;&quot;&gt;1&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="O-3fdxSTFqzNwpNhpnk3-28">
-          <mxGeometry x="15" y="30" width="60" height="30" as="geometry" />
+          <mxGeometry y="20" width="75" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
