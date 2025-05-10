@@ -56,10 +56,10 @@
           <mxGeometry x="7.5" y="217" width="75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O-3fdxSTFqzNwpNhpnk3-74" value="&lt;b&gt;&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot; style=&quot;&quot;&gt;&lt;i style=&quot;font-size: 24px;&quot;&gt;parent&lt;/i&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="O-3fdxSTFqzNwpNhpnk3-28">
-          <mxGeometry x="10" y="120" width="72.5" height="35" as="geometry" />
+          <mxGeometry x="10" y="130" width="50" height="25" as="geometry" />
         </mxCell>
         <mxCell id="O-3fdxSTFqzNwpNhpnk3-114" value="&lt;b&gt;&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot; style=&quot;&quot;&gt;&lt;i style=&quot;font-size: 24px;&quot;&gt;current&lt;/i&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="O-3fdxSTFqzNwpNhpnk3-28">
-          <mxGeometry x="98.75" y="120" width="72.5" height="35" as="geometry" />
+          <mxGeometry x="111.25" y="130" width="61.25" height="25" as="geometry" />
         </mxCell>
         <mxCell id="O-3fdxSTFqzNwpNhpnk3-117" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
