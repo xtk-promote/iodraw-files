@@ -32,7 +32,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="J8oAEdk3WyDvtYzaYj6k-11" value="&lt;font color=&quot;#6600cc&quot; face=&quot;Times New Roman&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;i style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;f&lt;sub&gt;1&lt;/sub&gt;&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="660" width="60" height="30" as="geometry" />
+          <mxGeometry x="543" y="645" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J8oAEdk3WyDvtYzaYj6k-12" value="&lt;font color=&quot;#ff8000&quot; face=&quot;Times New Roman&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;i style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;f&lt;sub&gt;2&lt;/sub&gt;&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="360" width="60" height="20" as="geometry" />
@@ -44,7 +44,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="J8oAEdk3WyDvtYzaYj6k-14" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#FF8000;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="490" y="490" width="30" height="30" as="geometry" />
+          <mxGeometry x="395" y="485" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
