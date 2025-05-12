@@ -1,0 +1,46 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="8ioBnANUrpyQV5OUYt03">
+    <mxGraphModel dx="1788" dy="1022" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="J8oAEdk3WyDvtYzaYj6k-2" value="" style="endArrow=none;html=1;rounded=1;strokeWidth=6;strokeColor=#FF9933;entryX=0.236;entryY=0.364;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="500" as="sourcePoint" />
+            <mxPoint x="409.9760000000001" y="409.98800000000006" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J8oAEdk3WyDvtYzaYj6k-4" value="" style="endArrow=none;html=1;rounded=1;strokeWidth=6;strokeColor=#FF9933;curved=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="411" y="413" as="sourcePoint" />
+            <mxPoint x="501" y="413" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J8oAEdk3WyDvtYzaYj6k-6" value="" style="endArrow=none;html=1;rounded=1;strokeWidth=6;strokeColor=#FF9933;entryX=0.236;entryY=0.364;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="504" y="500" as="sourcePoint" />
+            <mxPoint x="504" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J8oAEdk3WyDvtYzaYj6k-10" value="" style="endArrow=block;html=1;rounded=0;entryX=0.644;entryY=0.771;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#7F00FF;strokeWidth=3;shape=flexArrow;endFill=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="600" as="sourcePoint" />
+            <mxPoint x="550.1039999999998" y="650.057" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J8oAEdk3WyDvtYzaYj6k-11" value="&lt;font color=&quot;#6600cc&quot; face=&quot;Times New Roman&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;i style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;f&lt;sub&gt;1&lt;/sub&gt;&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="543" y="645" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J8oAEdk3WyDvtYzaYj6k-12" value="&lt;font color=&quot;#ff8000&quot; face=&quot;Times New Roman&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;i style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;f&lt;sub&gt;2&lt;/sub&gt;&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="540" y="360" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J8oAEdk3WyDvtYzaYj6k-13" value="" style="endArrow=block;html=1;rounded=0;strokeColor=#FF9933;strokeWidth=3;shape=flexArrow;endFill=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="400" as="sourcePoint" />
+            <mxPoint x="550" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
