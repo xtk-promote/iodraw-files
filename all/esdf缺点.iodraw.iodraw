@@ -83,7 +83,7 @@
           <mxGeometry x="678" y="476" width="60" height="37" as="geometry" />
         </mxCell>
         <mxCell id="Fx6eaATxd-AMz7xN5XKc-40" value="&lt;span style=&quot;font-size: 21px;&quot;&gt;新的障碍物&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="40" y="121" width="123" height="37" as="geometry" />
+          <mxGeometry x="861" y="207.5" width="123" height="37" as="geometry" />
         </mxCell>
         <mxCell id="Fx6eaATxd-AMz7xN5XKc-42" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
