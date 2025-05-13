@@ -58,9 +58,6 @@
             <mxPoint x="108.95238095238095" y="222.00000000000003" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Fx6eaATxd-AMz7xN5XKc-46" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rotation=45;" vertex="1" parent="Fx6eaATxd-AMz7xN5XKc-31">
-          <mxGeometry x="39" y="45" width="139.28" height="139.28" as="geometry" />
-        </mxCell>
         <mxCell id="Fx6eaATxd-AMz7xN5XKc-33" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="Fx6eaATxd-AMz7xN5XKc-32">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="389" y="530" as="sourcePoint" />
@@ -105,6 +102,9 @@
         </mxCell>
         <mxCell id="Fx6eaATxd-AMz7xN5XKc-45" value="&lt;span style=&quot;font-size: 21px;&quot;&gt;轨迹&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="788" y="563" width="60" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="Fx6eaATxd-AMz7xN5XKc-46" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rotation=45;" vertex="1" parent="1">
+          <mxGeometry x="942" y="398" width="144.28" height="144.28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
