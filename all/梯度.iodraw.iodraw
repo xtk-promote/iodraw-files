@@ -63,7 +63,7 @@
               <mxPoint x="127.84679089026915" y="195.01" />
               <mxPoint x="142.1656314699793" y="179.01" />
               <mxPoint x="161" y="165" />
-              <mxPoint x="211" y="151" />
+              <mxPoint x="209" y="148" />
               <mxPoint x="294.55900621118013" y="128.01" />
               <mxPoint x="338.5383022774327" y="119.01" />
               <mxPoint x="380.472049689441" y="108.01" />
@@ -89,7 +89,7 @@
           <mxGeometry x="392" y="133" width="6" height="6" as="geometry" />
         </mxCell>
         <mxCell id="rgK_g1WjvDPaWiuWTbmX-99" value="" style="group" vertex="1" connectable="0" parent="NJ5ByyUJmHhfNzLIK1Dk-51">
-          <mxGeometry x="193" y="15" width="82.49" height="82.5" as="geometry" />
+          <mxGeometry x="170" y="107" width="82.49" height="82.5" as="geometry" />
         </mxCell>
         <mxCell id="rgK_g1WjvDPaWiuWTbmX-100" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=none;" vertex="1" parent="rgK_g1WjvDPaWiuWTbmX-99">
           <mxGeometry width="80" height="80" as="geometry" />
