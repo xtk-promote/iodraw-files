@@ -202,12 +202,15 @@
         <mxCell id="cr75cm6TFOM2zbRTRFN3-7" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="dDg99TNLl3C_8YPIBkfE-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="209.5" y="251" as="sourcePoint" />
-            <mxPoint x="259.5" y="201" as="targetPoint" />
+            <mxPoint x="273" y="180" as="targetPoint" />
             <Array as="points">
               <mxPoint x="167.5" y="245" />
+              <mxPoint x="155" y="223" />
               <mxPoint x="157.5" y="204" />
-              <mxPoint x="185.5" y="184" />
+              <mxPoint x="181" y="176" />
+              <mxPoint x="217" y="163" />
               <mxPoint x="246.5" y="157" />
+              <mxPoint x="265" y="160" />
             </Array>
           </mxGeometry>
         </mxCell>
