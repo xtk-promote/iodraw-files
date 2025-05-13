@@ -128,13 +128,10 @@
           <mxGeometry x="251" y="54" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="hcJn4ZTLcpf2LNEWJSDQ-38" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF9933;" vertex="1" parent="hcJn4ZTLcpf2LNEWJSDQ-8">
-          <mxGeometry x="316" y="117" width="10" height="10" as="geometry" />
+          <mxGeometry x="274" y="89" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="hcJn4ZTLcpf2LNEWJSDQ-39" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF0000;" vertex="1" parent="hcJn4ZTLcpf2LNEWJSDQ-8">
           <mxGeometry x="177" y="154" width="10" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="hcJn4ZTLcpf2LNEWJSDQ-40" value="&lt;i style=&quot;font-size: 22px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 22px;&quot;&gt;x&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 22px;&quot;&gt;&lt;sub&gt;1&lt;/sub&gt;&lt;/font&gt;&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="hcJn4ZTLcpf2LNEWJSDQ-8">
-          <mxGeometry x="221" y="11" width="37" height="43" as="geometry" />
         </mxCell>
         <mxCell id="hcJn4ZTLcpf2LNEWJSDQ-42" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;&lt;i&gt;e&lt;sub&gt;i&lt;/sub&gt;&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="hcJn4ZTLcpf2LNEWJSDQ-8">
           <mxGeometry x="90" y="323" width="32" height="41" as="geometry" />
