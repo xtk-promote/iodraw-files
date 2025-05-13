@@ -20,7 +20,7 @@
           <mxGeometry x="307" y="394" width="478" height="390" as="geometry" />
         </mxCell>
         <mxCell id="hcJn4ZTLcpf2LNEWJSDQ-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="hcJn4ZTLcpf2LNEWJSDQ-8">
-          <mxGeometry x="-24.5" y="137" width="128" height="60" as="geometry" />
+          <mxGeometry x="-51" y="142" width="128" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hcJn4ZTLcpf2LNEWJSDQ-10" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#E6E6E6;" vertex="1" parent="hcJn4ZTLcpf2LNEWJSDQ-8">
           <mxGeometry x="294" y="24" width="120" height="60" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry x="122" y="84" width="59" height="41" as="geometry" />
         </mxCell>
         <mxCell id="hcJn4ZTLcpf2LNEWJSDQ-22" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF0000;" vertex="1" parent="hcJn4ZTLcpf2LNEWJSDQ-8">
-          <mxGeometry x="132" y="208" width="10" height="10" as="geometry" />
+          <mxGeometry x="112" y="207" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="hcJn4ZTLcpf2LNEWJSDQ-23" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 21px;&quot;&gt;&lt;i&gt;x&lt;sub&gt;new&lt;/sub&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="hcJn4ZTLcpf2LNEWJSDQ-8">
           <mxGeometry x="211" y="111" width="56" height="41" as="geometry" />
@@ -116,7 +116,7 @@
           <mxGeometry x="196" y="89" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="hcJn4ZTLcpf2LNEWJSDQ-38" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#00FF00;" vertex="1" parent="hcJn4ZTLcpf2LNEWJSDQ-8">
-          <mxGeometry x="274" y="89" width="10" height="10" as="geometry" />
+          <mxGeometry x="260" y="87" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="hcJn4ZTLcpf2LNEWJSDQ-39" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF0000;" vertex="1" parent="hcJn4ZTLcpf2LNEWJSDQ-8">
           <mxGeometry x="176" y="152" width="10" height="10" as="geometry" />
@@ -128,7 +128,7 @@
           <mxGeometry x="10" y="9" width="59" height="41" as="geometry" />
         </mxCell>
         <mxCell id="hcJn4ZTLcpf2LNEWJSDQ-44" value="&lt;font face=&quot;Times New Roman&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;C&lt;sub&gt;obs&lt;/sub&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=2" vertex="1" parent="hcJn4ZTLcpf2LNEWJSDQ-8">
-          <mxGeometry x="13" y="145" width="56" height="41" as="geometry" />
+          <mxGeometry x="-15" y="147" width="56" height="41" as="geometry" />
         </mxCell>
         <mxCell id="hcJn4ZTLcpf2LNEWJSDQ-66" value="" style="endArrow=none;html=1;rounded=0;entryX=0.09;entryY=0.714;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="hcJn4ZTLcpf2LNEWJSDQ-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
