@@ -86,7 +86,19 @@
           <mxGeometry x="673" y="482" width="60" height="37" as="geometry" />
         </mxCell>
         <mxCell id="Fx6eaATxd-AMz7xN5XKc-40" value="&lt;span style=&quot;font-size: 21px;&quot;&gt;新的障碍物&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="720" y="541" width="123" height="37" as="geometry" />
+          <mxGeometry x="737" y="528" width="123" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="Fx6eaATxd-AMz7xN5XKc-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.662;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Fx6eaATxd-AMz7xN5XKc-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="733" y="552.5" as="sourcePoint" />
+            <mxPoint x="679" y="558" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fx6eaATxd-AMz7xN5XKc-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.662;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="747" y="562" as="sourcePoint" />
+            <mxPoint x="689" y="568" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
