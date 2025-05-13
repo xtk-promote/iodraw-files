@@ -67,6 +67,9 @@
         <mxCell id="Fx6eaATxd-AMz7xN5XKc-34" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;激光雷达&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="83" y="435" width="102" height="37" as="geometry" />
         </mxCell>
+        <mxCell id="Fx6eaATxd-AMz7xN5XKc-35" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;激光雷达&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="93" y="445" width="102" height="37" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
