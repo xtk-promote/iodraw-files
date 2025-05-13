@@ -181,8 +181,8 @@
             <mxPoint x="715" y="275" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZeCKolyaWyk1gP_b5-gR-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="523" y="492" width="120" height="60" as="geometry" />
+        <mxCell id="ZeCKolyaWyk1gP_b5-gR-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="101" y="207" width="930" height="436" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
