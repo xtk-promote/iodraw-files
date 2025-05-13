@@ -103,6 +103,9 @@
         <mxCell id="Fx6eaATxd-AMz7xN5XKc-45" value="&lt;span style=&quot;font-size: 21px;&quot;&gt;轨迹&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="788" y="563" width="60" height="37" as="geometry" />
         </mxCell>
+        <mxCell id="Fx6eaATxd-AMz7xN5XKc-46" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="543" y="469" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
