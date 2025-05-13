@@ -227,10 +227,11 @@
               <mxPoint x="340" y="107" />
               <mxPoint x="366" y="105" />
               <mxPoint x="396" y="98" />
-              <mxPoint x="417" y="88" />
-              <mxPoint x="444" y="76" />
-              <mxPoint x="442" y="66" />
-              <mxPoint x="441" y="57" />
+              <mxPoint x="415" y="100" />
+              <mxPoint x="426" y="92" />
+              <mxPoint x="438" y="85" />
+              <mxPoint x="441" y="75" />
+              <mxPoint x="443" y="63" />
             </Array>
           </mxGeometry>
         </mxCell>
