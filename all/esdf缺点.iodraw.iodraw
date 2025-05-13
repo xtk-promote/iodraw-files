@@ -55,7 +55,7 @@
             <mxPoint x="108.95238095238095" y="222.00000000000003" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Fx6eaATxd-AMz7xN5XKc-32" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
+        <mxCell id="Fx6eaATxd-AMz7xN5XKc-32" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=default;dashed=1;dashPattern=1 1;opacity=30;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="839" y="363" width="198" height="198" as="geometry" />
         </mxCell>
       </root>
