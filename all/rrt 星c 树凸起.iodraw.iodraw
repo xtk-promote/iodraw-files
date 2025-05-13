@@ -52,14 +52,8 @@
             <mxPoint x="136.5" y="291" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hcJn4ZTLcpf2LNEWJSDQ-20" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 21px;&quot;&gt;&lt;i&gt;x&lt;sub&gt;near&lt;/sub&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="hcJn4ZTLcpf2LNEWJSDQ-8" vertex="1">
-          <mxGeometry x="122" y="84" width="59" height="41" as="geometry" />
-        </mxCell>
         <mxCell id="hcJn4ZTLcpf2LNEWJSDQ-22" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF0000;" parent="hcJn4ZTLcpf2LNEWJSDQ-8" vertex="1">
           <mxGeometry x="101" y="207" width="10" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="hcJn4ZTLcpf2LNEWJSDQ-23" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 21px;&quot;&gt;&lt;i&gt;x&lt;sub&gt;new&lt;/sub&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="hcJn4ZTLcpf2LNEWJSDQ-8" vertex="1">
-          <mxGeometry x="211" y="111" width="56" height="41" as="geometry" />
         </mxCell>
         <mxCell id="hcJn4ZTLcpf2LNEWJSDQ-30" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF0000;" parent="hcJn4ZTLcpf2LNEWJSDQ-8" vertex="1">
           <mxGeometry x="284" y="364" width="10" height="10" as="geometry" />
