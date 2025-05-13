@@ -103,24 +103,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cr75cm6TFOM2zbRTRFN3-15" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=4;rounded=0;exitX=0.902;exitY=0.969;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#3399FF;" parent="cr75cm6TFOM2zbRTRFN3-21" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="372.49800000000005" y="320.999" as="sourcePoint" />
-            <mxPoint x="432.5" y="321" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cr75cm6TFOM2zbRTRFN3-17" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=4;rounded=0;exitX=0.902;exitY=0.969;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#FF3399;" parent="cr75cm6TFOM2zbRTRFN3-21" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="373.49800000000005" y="349.999" as="sourcePoint" />
-            <mxPoint x="433.5" y="350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cr75cm6TFOM2zbRTRFN3-18" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: rgb(16, 18, 20); font-size: 14px; white-space: pre-wrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt; &lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 21px; background-color: initial;&quot;&gt;L&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=2" parent="cr75cm6TFOM2zbRTRFN3-21" vertex="1">
-          <mxGeometry x="433.5" y="323" width="34" height="37" as="geometry" />
-        </mxCell>
-        <mxCell id="cr75cm6TFOM2zbRTRFN3-14" value="&lt;font face=&quot;Times New Roman&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;Q&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=2" parent="cr75cm6TFOM2zbRTRFN3-21" vertex="1">
-          <mxGeometry x="433.5" y="300" width="33" height="37" as="geometry" />
-        </mxCell>
         <mxCell id="cr75cm6TFOM2zbRTRFN3-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="cr75cm6TFOM2zbRTRFN3-21" vertex="1">
           <mxGeometry y="128" width="120" height="60" as="geometry" />
         </mxCell>
