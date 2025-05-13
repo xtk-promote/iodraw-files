@@ -58,24 +58,9 @@
             <mxPoint x="127.5" y="294" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dDg99TNLl3C_8YPIBkfE-14" value="" style="group;strokeColor=default;" parent="dDg99TNLl3C_8YPIBkfE-1" vertex="1" connectable="0">
-          <mxGeometry x="204" y="230" width="79" height="146" as="geometry" />
-        </mxCell>
-        <mxCell id="dDg99TNLl3C_8YPIBkfE-9" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;strokeColor=default;" parent="dDg99TNLl3C_8YPIBkfE-14" source="dDg99TNLl3C_8YPIBkfE-10" edge="1">
+        <mxCell id="dDg99TNLl3C_8YPIBkfE-6" value="" style="endArrow=none;html=1;rounded=0;exitX=0.1;exitY=0.3;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.6;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;" parent="dDg99TNLl3C_8YPIBkfE-1" target="dDg99TNLl3C_8YPIBkfE-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="58" y="7" as="sourcePoint" />
-            <mxPoint x="7" y="79" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dDg99TNLl3C_8YPIBkfE-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF0000;strokeColor=default;" parent="dDg99TNLl3C_8YPIBkfE-14" vertex="1">
-          <mxGeometry x="69" y="22" width="10" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="dDg99TNLl3C_8YPIBkfE-7" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF0000;strokeColor=default;" parent="dDg99TNLl3C_8YPIBkfE-14" vertex="1">
-          <mxGeometry x="54" y="136" width="10" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="dDg99TNLl3C_8YPIBkfE-6" value="" style="endArrow=none;html=1;rounded=0;exitX=0.1;exitY=0.3;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.6;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;" parent="dDg99TNLl3C_8YPIBkfE-1" source="dDg99TNLl3C_8YPIBkfE-7" target="dDg99TNLl3C_8YPIBkfE-4" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="285" y="363" as="sourcePoint" />
+            <mxPoint x="259" y="369" as="sourcePoint" />
             <mxPoint x="231" y="308" as="targetPoint" />
           </mxGeometry>
         </mxCell>
