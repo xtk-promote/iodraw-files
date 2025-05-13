@@ -101,7 +101,7 @@
           <mxGeometry x="495" y="112.99809661865234" width="60" height="37" as="geometry" />
         </mxCell>
         <mxCell id="Fx6eaATxd-AMz7xN5XKc-67" value="&lt;span style=&quot;font-size: 21px;&quot;&gt;发现的障碍物&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;" vertex="1" parent="Fx6eaATxd-AMz7xN5XKc-68">
-          <mxGeometry x="113" y="23.998096618652312" width="144" height="37" as="geometry" />
+          <mxGeometry x="165" y="23.998096618652312" width="144" height="37" as="geometry" />
         </mxCell>
         <mxCell id="Fx6eaATxd-AMz7xN5XKc-69" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="Fx6eaATxd-AMz7xN5XKc-68">
           <mxGeometry x="599" y="203.49809661865234" width="190" height="30" as="geometry" />
