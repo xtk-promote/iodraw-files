@@ -67,16 +67,13 @@
         <mxCell id="Fx6eaATxd-AMz7xN5XKc-34" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;激光雷达&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="83" y="435" width="102" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="Fx6eaATxd-AMz7xN5XKc-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Fx6eaATxd-AMz7xN5XKc-35" target="Fx6eaATxd-AMz7xN5XKc-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Fx6eaATxd-AMz7xN5XKc-35" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;ESDF&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="639" y="427" width="74" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="Fx6eaATxd-AMz7xN5XKc-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.019;exitY=0.694;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.982;entryY=0.064;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Fx6eaATxd-AMz7xN5XKc-35" target="Fx6eaATxd-AMz7xN5XKc-4">
+        <mxCell id="Fx6eaATxd-AMz7xN5XKc-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.019;exitY=0.694;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Fx6eaATxd-AMz7xN5XKc-35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="558" y="534" as="sourcePoint" />
-            <mxPoint x="575" y="451" as="targetPoint" />
+            <mxPoint x="562" y="457" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Fx6eaATxd-AMz7xN5XKc-38" value="&lt;span style=&quot;font-size: 21px;&quot;&gt;推力&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -85,10 +82,10 @@
         <mxCell id="Fx6eaATxd-AMz7xN5XKc-40" value="&lt;span style=&quot;font-size: 21px;&quot;&gt;新的障碍物&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="733" y="513" width="123" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="Fx6eaATxd-AMz7xN5XKc-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.008;exitY=0.502;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Fx6eaATxd-AMz7xN5XKc-40">
+        <mxCell id="Fx6eaATxd-AMz7xN5XKc-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.033;exitY=0.625;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Fx6eaATxd-AMz7xN5XKc-40">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="733" y="552.5" as="sourcePoint" />
-            <mxPoint x="666" y="532" as="targetPoint" />
+            <mxPoint x="661" y="538" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Fx6eaATxd-AMz7xN5XKc-42" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
