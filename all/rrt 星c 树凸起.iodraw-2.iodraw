@@ -14,7 +14,7 @@
           <mxGeometry x="344.99583557128904" y="69.99919830322267" width="286" height="229" as="geometry" />
         </mxCell>
         <mxCell id="hcJn4ZTLcpf2LNEWJSDQ-8" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="307" y="394" width="610" height="416" as="geometry" />
+          <mxGeometry x="308" y="395" width="610" height="416" as="geometry" />
         </mxCell>
         <mxCell id="fvvF0amB0IoMXoGVuybz-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="hcJn4ZTLcpf2LNEWJSDQ-8" vertex="1">
           <mxGeometry x="-71" y="-10" width="611" height="406" as="geometry" />
@@ -84,7 +84,7 @@
               <mxPoint x="749" y="471" />
               <mxPoint x="725" y="493" />
               <mxPoint x="697" y="501" />
-              <mxPoint x="570" y="524" />
+              <mxPoint x="575" y="521" />
             </Array>
           </mxGeometry>
         </mxCell>
