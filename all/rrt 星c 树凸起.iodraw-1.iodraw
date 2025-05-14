@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="1AZHIS-WpvU_xJvVLFZK">
-    <mxGraphModel dx="344" dy="197" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="715" dy="410" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -89,11 +89,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="156.75" y="115" as="sourcePoint" />
             <mxPoint x="106" y="103" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fvvF0amB0IoMXoGVuybz-10" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hcJn4ZTLcpf2LNEWJSDQ-53">
-          <mxGeometry x="0.7988" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hcJn4ZTLcpf2LNEWJSDQ-57" value="&lt;font face=&quot;Times New Roman&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;T&lt;/span&gt;&lt;span style=&quot;font-size: 17.5px;&quot;&gt;e&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=2" parent="hcJn4ZTLcpf2LNEWJSDQ-60" vertex="1">
