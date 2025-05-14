@@ -103,6 +103,12 @@
         <mxCell id="hcJn4ZTLcpf2LNEWJSDQ-72" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF3333;" parent="1" vertex="1">
           <mxGeometry x="529" y="541" width="10" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="fvvF0amB0IoMXoGVuybz-18" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="hcJn4ZTLcpf2LNEWJSDQ-72" target="hcJn4ZTLcpf2LNEWJSDQ-74">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="512" y="589" as="sourcePoint" />
+            <mxPoint x="562" y="539" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
