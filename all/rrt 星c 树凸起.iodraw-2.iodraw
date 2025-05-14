@@ -163,6 +163,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="yk37CBO1Guq3sjocFDlT-14" value="&lt;font face=&quot;Times New Roman&quot; color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;T&lt;/span&gt;&lt;span style=&quot;font-size: 17.5px;&quot;&gt;e&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="787" y="706" width="39" height="37" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
