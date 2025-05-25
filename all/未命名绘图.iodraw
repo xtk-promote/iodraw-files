@@ -8,7 +8,7 @@
           <mxGeometry x="147" y="-173" width="764.47" height="475.32" as="geometry" />
         </mxCell>
         <mxCell id="D3r3PjEtPgoz5z81HnYs-2" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fontSize=21;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="125" y="595" width="530" height="120" as="geometry" />
+          <mxGeometry x="125" y="595" width="707" height="120" as="geometry" />
         </mxCell>
         <mxCell id="D3r3PjEtPgoz5z81HnYs-5" value="仿真与实物实验验证" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=21;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="575" y="757" width="247" height="134" as="geometry" />
@@ -89,7 +89,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="D3r3PjEtPgoz5z81HnYs-31" value="启发信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="318" y="619" width="93.5" height="30" as="geometry" />
+          <mxGeometry x="325" y="618" width="93.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
