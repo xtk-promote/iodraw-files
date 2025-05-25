@@ -70,8 +70,11 @@
             <mxPoint x="389.5" y="595" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D3r3PjEtPgoz5z81HnYs-26" value="前端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="226.5" y="603" width="60" height="30" as="geometry" />
+        <mxCell id="D3r3PjEtPgoz5z81HnYs-26" value="第二章" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="211.25" y="602" width="93.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D3r3PjEtPgoz5z81HnYs-27" value="第二章" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="221.25" y="612" width="93.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
