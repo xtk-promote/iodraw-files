@@ -25,6 +25,9 @@
         <mxCell id="D3r3PjEtPgoz5z81HnYs-10" value="轨迹优化" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fontSize=18;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="138.5" y="719" width="161" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="D3r3PjEtPgoz5z81HnYs-11" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="128" y="584" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
