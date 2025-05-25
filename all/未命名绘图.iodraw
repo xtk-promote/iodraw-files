@@ -14,10 +14,10 @@
           <mxGeometry x="575" y="757" width="247" height="134" as="geometry" />
         </mxCell>
         <mxCell id="D3r3PjEtPgoz5z81HnYs-7" value="JPS迭代搜索器" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=21;fontFamily=Times New Roman;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="198" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="174" y="640" width="144" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D3r3PjEtPgoz5z81HnYs-8" value="搜索引导采样策略" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=21;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="588" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="588" y="640" width="185" height="60" as="geometry" />
         </mxCell>
         <mxCell id="D3r3PjEtPgoz5z81HnYs-11" value="前端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="133" y="610" width="60" height="30" as="geometry" />
