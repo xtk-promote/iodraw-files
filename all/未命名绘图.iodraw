@@ -88,8 +88,8 @@
             <mxPoint x="419" y="669.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D3r3PjEtPgoz5z81HnYs-31" value="第二章" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="221.25" y="612" width="93.5" height="30" as="geometry" />
+        <mxCell id="D3r3PjEtPgoz5z81HnYs-31" value="启发信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="318" y="619" width="93.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
