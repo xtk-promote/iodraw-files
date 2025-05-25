@@ -22,8 +22,8 @@
         <mxCell id="D3r3PjEtPgoz5z81HnYs-8" value="搜索引导采样策略" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="410" y="610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="D3r3PjEtPgoz5z81HnYs-10" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="129" y="732" width="161" height="120" as="geometry" />
+        <mxCell id="D3r3PjEtPgoz5z81HnYs-10" value="轨迹优化" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fontSize=18;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="138.5" y="719" width="161" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
