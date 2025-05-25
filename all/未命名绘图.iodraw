@@ -22,10 +22,10 @@
         <mxCell id="D3r3PjEtPgoz5z81HnYs-11" value="前端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="128" y="584" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="D3r3PjEtPgoz5z81HnYs-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="D3r3PjEtPgoz5z81HnYs-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="447" y="789" as="sourcePoint" />
-            <mxPoint x="550" y="782" as="targetPoint" />
+            <mxPoint x="442" y="783.5" as="sourcePoint" />
+            <mxPoint x="556.5" y="782.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="D3r3PjEtPgoz5z81HnYs-14" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -41,7 +41,7 @@
           <mxGeometry x="16.5" y="12" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D3r3PjEtPgoz5z81HnYs-17" value="可行路径" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=18;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="87" y="745" width="120" height="60" as="geometry" />
+          <mxGeometry x="77" y="742" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
