@@ -28,8 +28,8 @@
         <mxCell id="D3r3PjEtPgoz5z81HnYs-11" value="前端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="128" y="584" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="D3r3PjEtPgoz5z81HnYs-12" value="前端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="138" y="594" width="60" height="30" as="geometry" />
+        <mxCell id="D3r3PjEtPgoz5z81HnYs-12" value="后端" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="138.5" y="719" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
